@@ -2,11 +2,123 @@
 <items version="2" >
 
     <item
+        jar="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_c7f35acb20effc4427329c0477e28ccf6c6574f1/classes.dex" />
+    </item>
+    <item
+        jar="/home/marius/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.1.2/a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0/logging-interceptor-3.1.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0">
+        <dex dex="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.1.2_90a5a55ed8c95d3e138c9645d99da14ead0009bd/classes.dex" />
+    </item>
+    <item
+        jar="/home/marius/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_aa5223489777a13df987ce1e10b161fcd4739a8c/classes.dex" />
+    </item>
+    <item
+        jar="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_7ebc4bfcd46de459cabcfda4ea9e6a73589c3232/classes.dex" />
+    </item>
+    <item
+        jar="/home/marius/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_addfcf97b2aa657ba6bcade90c90cc0a08773081/classes.dex" />
+    </item>
+    <item
+        jar="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ce122e608f7a72be83ffa60c67f48ab180d9a53a">
+        <dex dex="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a603f26d0624fa9f8edddc44a2ea6ea0a075b81b/classes.dex" />
+    </item>
+    <item
+        jar="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_17022b565b8216208595c1202655b525d02e5a25/classes.dex" />
+    </item>
+    <item
+        jar="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1d3964db19259a503a8c9467e52c344c0372ebf8">
+        <dex dex="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-23.3.0_073429c6a03fceb3742281719c3a27e9bc92fa9c/classes.dex" />
+    </item>
+    <item
+        jar="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_2a9c8d0e7f64ee8e81360a1c8d7e04fd302f11bc/classes.dex" />
+    </item>
+    <item
         jar="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="cc3e8a5b71dacb8d2554acad0a3a1cc425d93e3e">
+        sha1="70ae9b5b3fd785a62f3ed386104ee76425f35693">
         <dex dex="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0c97ca11feb86fe979c920d888f4af131a1eaf04/classes.dex" />
+    </item>
+    <item
+        jar="/home/marius/.gradle/caches/modules-2/files-2.1/com.squareup.moshi/moshi/1.1.0/9c665b797ef9427f6d73572642dcb5f90270f7d3/moshi-1.1.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9c665b797ef9427f6d73572642dcb5f90270f7d3">
+        <dex dex="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/transforms/dex/debug/folders/1000/10/moshi-1.1.0_46aaecfac34b4ede7b508847048afa960d8954a7/classes.dex" />
+    </item>
+    <item
+        jar="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_094b71471b30ab3d0db1dbccb3f6d0c2c7c6a585/classes.dex" />
+    </item>
+    <item
+        jar="/home/marius/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_ab20536d21eadd296c7aa58a493e2d871f8b3873/classes.dex" />
+    </item>
+    <item
+        jar="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_d6e2b47f2d3d9f8e308891884979c1fefaa5060d/classes.dex" />
+    </item>
+    <item
+        jar="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/exploded-aar/com.stormpath.sdk/stormpath-sdk-android/1.1.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="95f70d3a6293bba6ff1a2b511a1bdba90be21622">
+        <dex dex="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.stormpath.sdk-stormpath-sdk-android-1.1.2_fed14f68791a6c9bbe21a859254a5fc27e066cd8/classes.dex" />
+    </item>
+    <item
+        jar="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_ee5fc87356f1f7b56a2a8edd26078acab87f8b81/classes.dex" />
+    </item>
+    <item
+        jar="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/exploded-aar/com.stormpath.sdk/stormpath-sdk-android-ui/1.1.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9bdc3a35b2fb271e419727728c4a380054b1f6eb">
+        <dex dex="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.stormpath.sdk-stormpath-sdk-android-ui-1.1.2_bdb88331ca7b1354e121b3694db9a30454a16d9b/classes.dex" />
     </item>
 
 </items>
