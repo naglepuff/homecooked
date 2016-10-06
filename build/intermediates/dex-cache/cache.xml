@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="cc3e8a5b71dacb8d2554acad0a3a1cc425d93e3e">
+        <dex dex="/home/marius/dev/AndroidTest/Homecooked/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0c97ca11feb86fe979c920d888f4af131a1eaf04/classes.dex" />
+    </item>
+
+</items>
